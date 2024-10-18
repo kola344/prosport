@@ -1,0 +1,4 @@
+aiogram
+aiosqlite
+vk_api
+pytelegrambotapi

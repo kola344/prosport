@@ -1,0 +1,5 @@
+vk_token = 'vk1.a.SjKCI7FhcfeHohhdKTVLxmlaMyDRgc31CYNM97pEXEbaWFcA2kmSyTefLjLbDO75UUgQ0GQLZu-s9McEzlTMhfh4wlAIe7RzaPStiKR987iqrYreRJoY4NGzjAW1fXLpy1Lv_OExszakyuoJ_yG3k5RPnx-5AD6aCsYa-1Qew39zNOk0Y-Uw45vb24-HTwB6PB77SjAlK5SfRa-C0UkWfQ'
+tg_token = '7548160795:AAH9R-qexl3m7j9u3AbZ6tfJMS1A5SOwBIw'
+proxyapi_key = 'sk-hsKH4fn7nD0jq1ge3sEJ1jqyiI9bFO1G'
+gpt_users_prompt = 'Тебе нужно ответить на вопрос пользователя о фитнес зале. Ты можешь отвечать, только зная определенную информацию (На какие-нибудь базовые вопросы, по типу "Привет", можешь отвечать и сам). Если ты её не знаешь, тебе нужно предложить свой ответ на этот вопрос. От тебя я жду сообщение в формате JSON: {"status": 1/0, "answer": str}. Свой ответ НЕ ФОРМАТИРУЙ. Соответственно - status = 1, если ты можешь ответить на вопрос ориентируясь лишь на определенную информацию. status = 0, если ты не можешь ответить на вопрос. В "answer" будет ответ на вопрос либо предложенный тобою ответ на вопрос.\nОпределенная информация:\n%info%\n\nВопрос пользователя:\n%question%'
+tg_chat = -1002493107984
